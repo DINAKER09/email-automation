@@ -1,0 +1,31 @@
+Lead .NET Fullstack Developer
+Location: Onsite at Seattle, WA / Dallas, TX / Chicago, IL / NYC, NY
+Employment Type: W2
+About the Role
+We are looking for a Lead .NET Fullstack Developer to join our dynamic engineering team. You will drive the design and development of scalable web applications, mentor junior developers, and guide technical decisions while collaborating across teams.
+Responsibilities
+Lead the design and development of complex web applications.
+Mentor junior developers and provide technical leadership.
+Participate in the full software development lifecycle.
+Build and maintain robust backend systems & APIs integrated with Azure cloud.
+Navigate multiple codebases using inner-source methodologies.
+Conduct code reviews and enforce best practices.
+Collaborate with product managers, designers, and QA teams.
+Stay updated on industry trends and implement innovative technologies.
+Requirements
+Bachelor's degree in Computer Science or related field.
+Strong proficiency in .NET Core.
+Expertise in JavaScript, TypeScript, HTML, CSS.
+Experience with React.js or Angular.
+Knowledge of MS SQL Server & Cosmos DB.
+Hands-on experience with Azure cloud & APIs.
+Familiarity with Agile methodologies (Scrum, Kanban).
+Strong leadership, problem-solving, and communication skills.
+Preferred Qualifications
+Experience with Docker, Kubernetes.
+Knowledge of microservices architecture & API design.
+Exposure to CI/CD pipelines in Azure.
+Familiarity with TDD, BDD & open-source contributions.
+Experience in inner sourcing & cross-team collaboration.
+🚀 Join us and be part of a high-impact team driving technological excellence!
+📩 Apply Now: tarun@proit-usa.com
