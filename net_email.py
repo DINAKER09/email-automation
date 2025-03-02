@@ -2,9 +2,12 @@ import os
 import re
 import smtplib
 from email.message import EmailMessage
+import csv
+
 
 # 📂 **Read job posting from file**
 job_posting_file = "/Users/dinakerreddykesireddy/Desktop/email_project/net_job_posting.txt"
+csv_output_file = "/Users/dinakerreddykesireddy/Desktop/email_project/job_postings.xlsx"
 
 # Check if file exists
 if not os.path.exists(job_posting_file):
@@ -26,6 +29,15 @@ email_match = re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", job_
 role = role_match.group(1).strip() if role_match else ".NET Developer"  # Default to ".NET Developer"
 location = location_match.group(1).strip() if location_match else "USA"  # Default to "USA"
 email = email_match[0] if email_match else "Not Found"  # ✅ Fix: Picks the first valid email or returns "Not Found"
+
+with open(csv_output_file, mode="a", newline="", encoding="utf-8") as file:
+    writer = csv.writer(file)
+    #writer.writerow(["Job Title", "Email Address"])  # CSV Header
+
+    
+    writer.writerow([role, email])
+
+print(f"\n✅ Job postings saved to CSV: {csv_output_file}")
 
 # ✅ **Debugging Output**
 print("\n---- Extracted Details ----")
