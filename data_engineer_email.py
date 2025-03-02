@@ -57,30 +57,32 @@ else:
 
 I hope you're doing well.
 
-I recently came across your job posting for the {role} position in {location}, and I am highly interested in this opportunity. With 4 years of experience in data analysis across the finance and IT sectors, I have developed strong expertise in SQL (MySQL, MS SQL Server, PostgreSQL), Python, Power BI, and Tableau for data visualization and business intelligence reporting. My experience includes:
+I recently came across your job posting for the {role} position in {location}, and I am very interested in this opportunity. With over five years of experience as a Data Engineer, I specialize in building and optimizing scalable data solutions using Python, SQL, Kafka, and cloud technologies (AWS, Azure, Snowflake). My expertise includes:
 
-Building ETL pipelines and optimizing SQL queries to improve data processing efficiency.
-Developing interactive dashboards and automated reporting solutions, leading to measurable performance improvements.
-Working with cloud technologies (AWS, Azure) and data warehousing for scalable data solutions.
-Performing statistical analysis and predictive modeling to drive data-driven decision-making.
-I have attached my resume for your review. I would love the opportunity to discuss how my analytical skills and technical expertise can contribute to your team’s success. Please let me know a convenient time for a quick call.
+Designing and optimizing ETL pipelines for efficient data ingestion, transformation, and storage.
+Building real-time data processing solutions using Python and Kafka, improving query performance by 40%.
+Managing cloud-based data warehouses (AWS Redshift, Snowflake) to enhance data accessibility and performance.
+Automating workflows and CI/CD pipelines to streamline data operations and deployment processes.
+Developing data-driven solutions to support business intelligence, analytics, and decision-making.
+I have attached my resume for your review. I would love the opportunity to discuss how my technical skills and experience can contribute to your team’s success. Please let me know a convenient time for a quick call.
 
 Looking forward to your response.
 
 Best regards,
 Dinaker Reddy
 📞 786-556-6054
-✉️ dinakerreddykesireddy@gmail.com  
+✉️ dinakerreddykesireddy@gmail.com
+
 """
 
     # 📂 **Resume File Path (Ensure file exists)**
-    resume_path = "/Users/dinakerreddykesireddy/Desktop/email_project/Dinaker_Sr Full Stack .NET Developer.docx"
+    resume_path = "/Users/dinakerreddykesireddy/Desktop/email_project/dinakerr_data_engineer.pdf"
 
     # ✅ **Prepare Email with Attachment**
     msg = EmailMessage()
     msg.set_content(body)
     msg["Subject"] = subject
-    msg["From"] = "dinakerkr@gmail.com"
+    msg["From"] = "dinakerreddykesireddy@gmail.com"
     msg["To"] = email
 
     # 📎 **Attach Resume**

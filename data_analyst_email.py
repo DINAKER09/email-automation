@@ -74,7 +74,7 @@ Dinaker Reddy
 """
 
     # 📂 **Resume File Path (Ensure file exists)**
-    resume_path = "/Users/dinakerreddykesireddy/Desktop/email_project/Dinaker_Sr Full Stack .NET Developer.docx"
+    resume_path = "/Users/dinakerreddykesireddy/Desktop/email_project/dinakerr_data_analyst.pdf"
 
     # ✅ **Prepare Email with Attachment**
     msg = EmailMessage()
