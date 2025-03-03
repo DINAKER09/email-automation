@@ -1,16 +1,50 @@
-#StillHiring for #.NET Developer With hashtag#P&C Domain Industry Must .
-Duration: Long Term
-Location: Warren, NJ (Hybrid) Locals Only Preferred With In 30 Miles 
-Exp:8-10+ Required 
-Note : Recent Project Exp With P&C Domain Industry Must
-
-Required Skills & Experience:
-5+ years of experience as a .NET Developer with expertise in .NET Core, C#, and Angular (8+).
-Strong knowledge of the hashtag#P&C insurance domain with hands-on experience in policy, claims, or underwriting systems.
-Experience with hashtag#RESTful API development, microservices architecture, and cloud technologies (Azure/AWS) is a plus.
-Proficiency in hashtag#SQL Server or other relational databases with strong database design and optimization skills.
-Familiarity with DevOps tools (CI/CD pipelines, Docker, Kubernetes) is a plus.
-
-Email ID : Lucky@mediit.io
+Position : SDET with .NET
+Location : Austin, TX -  HYBRID
+Duration : 1 Year
+Client : Charles Schwab
+Implementation : Infosys
 
 
+Job Summary: As an SDET, you will drive the quality and reliability of software applications built with the .NET framework. You will design, develop, and maintain test frameworks, craft automated and manual tests, and collaborate with development teams to embed quality at every stage of the software development life cycle. Your work will blend programming, testing, and troubleshooting, ensuring the delivery of high-quality applications. You will lead technical discussions, championing code quality, security, and maintainability by upholding established metrics and industry best practices. Additionally, you will chair Test-Driven Development (TDD) meetings to foster collaboration and drive transformative change across the team.
+
+Primary Responsibilities:
+•⁠  ⁠Analyze requirements to ensure clarity and testability.
+•⁠  ⁠Collaborate with internal teams to design robust software architectures and test strategies.
+•⁠  ⁠Present innovative technical ideas and refactoring strategies during team meetings.
+•⁠  ⁠Write clean, efficient, and scalable code using .NET programming languages.
+•⁠  ⁠Develop, execute, and maintain automated tests, including unit, integration, and system tests.
+•⁠  ⁠Validate and deploy applications and systems, ensuring functionality and quality.
+•⁠  ⁠Revise, refactor, and debug code to uphold quality standards.
+•⁠  ⁠Implement and maintain continuous testing workflows in CI/CD pipelines.
+•⁠  ⁠Enhance existing software by identifying and mitigating quality risks.
+•⁠  ⁠Champion adherence to United Airlines' metrics for code quality, achieving at least 80% code coverage and maintaining code readability as measured by SonarQube scans.
+•⁠  ⁠Integrate security best practices and manage framework upgrades within the development lifecycle.
+•⁠  ⁠Produce and maintain comprehensive test documentation, including test plans, cases, and results, throughout the SDLC.
+•⁠  ⁠Analyze and monitor test execution results to ensure alignment with business requirements.
+•⁠  ⁠Serve as a subject matter expert in testing methodologies, tools, and best practices, providing technical guidance to the team.
+•⁠  ⁠Chair Test-Driven Development (TDD) meetings to promote collaboration and drive continuous improvement.
+ 
+Qualifications:
+•⁠  ⁠Proven experience as a .NET Developer or SDET.
+•⁠  ⁠Expertise in testing frameworks and tools such as NUnit, xUnit, or MSTest for unit testing.
+•⁠  ⁠Solid understanding of the ASP.NET framework, SQL Server, and design/architectural patterns (e.g., Model-View-Controller (MVC)).
+•⁠  ⁠Proficiency in at least one .NET language (e.g., C#, Visual Basic .NET) and familiarity with HTML5/CSS3.
+•⁠  ⁠Hands-on experience with API testing and architecture styles/APIs (REST, RPC).
+•⁠  ⁠Thorough understanding of Agile methodologies and experience working in Agile teams.
+•⁠  ⁠Proficiency in writing automated UI tests using tools such as Selenium, Playwright, or similar frameworks.
+•⁠  ⁠Experience with version control systems like Git and test management tools like TestRail or Zephyr.
+•⁠  ⁠Exceptional problem-solving skills and keen attention to detail.
+--
+ 
+
+Regards,
+
+Alex . K
+
+NAVTECH INC
+
+P : (224) 348-1340    E : Alex@navtechusa.com  
+
+1600 Golf Road. Suite 1200, Rolling Meadows, IL 60008
+
+www.Navtechusa.com
